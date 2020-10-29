@@ -12,7 +12,11 @@
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
-		</head>
+	<link rel="icon" href="https://ironmuffins.com/wp-content/uploads/2020/10/cropped-favicon-smirky-512x512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://ironmuffins.com/wp-content/uploads/2020/10/cropped-favicon-smirky-512x512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ironmuffins.com/wp-content/uploads/2020/10/cropped-favicon-smirky-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://ironmuffins.com/wp-content/uploads/2020/10/cropped-favicon-smirky-512x512-1-270x270.png" />
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-gb">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
