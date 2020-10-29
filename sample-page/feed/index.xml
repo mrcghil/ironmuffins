@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
-	<atom:link href="https://ironmuffins.com/2020/10/28/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ironmuffins.com/2020/10/28/hello-world/</link>
+	Comments on: Sample Page	</title>
+	<atom:link href="https://ironmuffins.com/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ironmuffins.com</link>
 	<description>Flex and Bake</description>
 	<lastBuildDate>Wed, 28 Oct 2020 18:03:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

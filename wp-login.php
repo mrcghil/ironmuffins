@@ -22,7 +22,7 @@
 		document.body.className = document.body.className.replace('no-js','js');
 	</script>
 		<div id="login">
-		<h1><a href="https://en-gb.wordpress.org/">Powered by WordPress</a></h1>
+		<h1><a href="https://en-gb.wordpress.org/">Powered by Quasiscience</a></h1>
 	
 		<form name="loginform" id="loginform" action="https://ironmuffins.com/wp-login.php" method="post">
 			<p>

@@ -30,7 +30,7 @@
 	<item>
 		<title>Hello world!</title>
 		<link>https://ironmuffins.com/2020/10/28/hello-world/</link>
-					<comments>https://ironmuffins.com/2020/10/28/hello-world/#comments</comments>
+					<comments>https://ironmuffins.com/2020/10/28/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[mghilardi]]></dc:creator>
 		<pubDate>Wed, 28 Oct 2020 18:03:09 +0000</pubDate>
@@ -43,7 +43,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://ironmuffins.com/2020/10/28/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
