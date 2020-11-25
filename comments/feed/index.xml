@@ -11,11 +11,11 @@
 	<atom:link href="https://ironmuffins.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ironmuffins.com</link>
 	<description>Flex and Bake</description>
-	<lastBuildDate>Wed, 25 Nov 2020 20:55:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Nov 2020 21:29:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 </channel>
 </rss>

@@ -4,11 +4,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; IronMuffins &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='https://ironmuffins.com/wp-includes/css/dashicons.min.css?ver=5.5.1' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='https://ironmuffins.com/wp-includes/css/buttons.min.css?ver=5.5.1' media='all' />
-<link rel='stylesheet' id='forms-css'  href='https://ironmuffins.com/wp-admin/css/forms.min.css?ver=5.5.1' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='https://ironmuffins.com/wp-admin/css/l10n.min.css?ver=5.5.1' media='all' />
-<link rel='stylesheet' id='login-css'  href='https://ironmuffins.com/wp-admin/css/login.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://ironmuffins.com/wp-includes/css/dashicons.min.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://ironmuffins.com/wp-includes/css/buttons.min.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://ironmuffins.com/wp-admin/css/forms.min.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://ironmuffins.com/wp-admin/css/l10n.min.css?ver=5.5.3' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://ironmuffins.com/wp-admin/css/login.min.css?ver=5.5.3' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -22,7 +22,7 @@
 		document.body.className = document.body.className.replace('no-js','js');
 	</script>
 		<div id="login">
-		<h1><a href="https://en-gb.wordpress.org/">Powered by Quasiscience</a></h1>
+		<h1><a href="https://en-gb.wordpress.org/">Powered by WordPress</a></h1>
 	
 		<form name="loginform" id="loginform" action="https://ironmuffins.com/wp-login.php" method="post">
 			<p>
@@ -77,12 +77,12 @@ var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2020-10-22 07:23:21+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_GB"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script src='https://ironmuffins.com/wp-admin/js/password-strength-meter.min.js?ver=5.5.1' id='password-strength-meter-js'></script>
+<script src='https://ironmuffins.com/wp-admin/js/password-strength-meter.min.js?ver=5.5.3' id='password-strength-meter-js'></script>
 <script src='https://ironmuffins.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
 <script id='wp-util-js-extra'>
 var _wpUtilSettings = {"ajax":{"url":"\/ironmuffins\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src='https://ironmuffins.com/wp-includes/js/wp-util.min.js?ver=5.5.1' id='wp-util-js'></script>
+<script src='https://ironmuffins.com/wp-includes/js/wp-util.min.js?ver=5.5.3' id='wp-util-js'></script>
 <script id='user-profile-js-translations'>
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
@@ -90,7 +90,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/ironmuffins\/wp-admin\/admin-ajax.php"}}
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2020-10-22 07:23:21+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_GB"},"Your new password has not been saved.":["Your new password has not been saved."],"Show":["Show"],"Hide":["Hide"],"Confirm use of weak password":["Confirm use of weak password"],"Hide password":["Hide password"],"Show password":["Show password"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script src='https://ironmuffins.com/wp-admin/js/user-profile.min.js?ver=5.5.1' id='user-profile-js'></script>
+<script src='https://ironmuffins.com/wp-admin/js/user-profile.min.js?ver=5.5.3' id='user-profile-js'></script>
 	<div class="clear"></div>
 	</body>
 	</html>
