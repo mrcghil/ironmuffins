@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>https://ironmuffins/</loc></url>
+<url><loc>https://ironmuffins/adventures/</loc></url>
+<url><loc>https://ironmuffins/sample-page/</loc></url>
+<url><loc>https://ironmuffins/contacts/</loc></url>
+<url><loc>https://ironmuffins/2020/10/28/hello-world/</loc></url>
+<url><loc>https://ironmuffins/2020/10/</loc></url>
+<url><loc>https://ironmuffins/category/uncategorised/</loc></url>
+<url><loc>https://ironmuffins/feed/</loc></url>
+<url><loc>https://ironmuffins/comments/feed/</loc></url>
+<url><loc>https://ironmuffins/author/mghilardi/</loc></url>
+</urlset>

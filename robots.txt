@@ -5,5 +5,5 @@ Disallow: /wp-admin/
 Disallow: /readme.html
 Disallow: /refer/
 
-# Sitemap: http://www.example.com/post-sitemap.xml
-# Sitemap: http://www.example.com/page-sitemap.xml
+Sitemap: http://ironmuffins.com/sitemaps/google_map.xml
+Sitemap: http://ironmuffins.com/sitemaps/sitemap.html
